@@ -1,0 +1,16 @@
+Age,Has_Job,Own_House,Credit_Rating,Class
+Young,FALSE,FALSE,fair,No
+Young,FALSE,FALSE,Good,No
+Young,TRUE,FALSE,Good,Yes
+Young,TRUE,TRUE,fair,Yes
+Young,FALSE,FALSE,fair,No
+Middle,FALSE,FALSE,fair,No
+Middle,FALSE,FALSE,Good,No
+Middle,TRUE,TRUE,Good,Yes
+Middle,FALSE,TRUE,excellent,Yes
+Middle,FALSE,TRUE,excellent,Yes
+Old,FALSE,TRUE,excellent,Yes
+Old,FALSE,TRUE,Good,Yes
+Old,TRUE,FALSE,Good,Yes
+Old,TRUE,FALSE,excellent,Yes
+Old,FALSE,FALSE,fair,No
